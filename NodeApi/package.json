@@ -1,0 +1,21 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Primeira api node",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-timeout": "^1.9.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yago Henrique",
+  "license": "ISC"
+}
